@@ -1,0 +1,8 @@
+name: MarioParty
+version: 1.0 Release
+main: com.sanjay900.marioParty.MarioParty
+depend: [HolographicDisplays,Citizens,ProtocolLib, EyrePlugin]
+commands:
+    mp:
+        description: Mario Party related commands.
+        usage: /mp
